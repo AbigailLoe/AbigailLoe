@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbigailLoe
 - 👀 I’m interested in statistical methods, computation and finding new insight from the world around us.
-- 🌱 I’m currently learning at the Univeristy of Michigan Biostat M.S. program!
-- 💞️ I’m looking to collaborate on new methods and statistics for social justice.
+- 🌱 I’m currently learning at the Univeristy of Michigan Department Biostatistics!
+- 💞️ I’m looking to collaborate on new methods and statistics for recurrent events and machine learning.
 - 📫 Reach me at agloe@umich.edu
 
 <!---
